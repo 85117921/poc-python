@@ -1,6 +1,7 @@
 # test
 
 git hub disable SSL
+github: token wrote in secret
 ## -------------------------------------------
 # 20250812 - 9
 token wrote in URL

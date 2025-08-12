@@ -1,5 +1,8 @@
 # test
 
+# 20250812 - 9
+token wrote in URL
+
 # 20250812 - 8
 把token写在URL上面，而不是卸载secret里面
 

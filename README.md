@@ -1,5 +1,8 @@
 # test
 
+# 20250812 - 5
+放通防火墙
+
 # 20250812 - 4
 在docker-jenkins中配置了trigger-remote
 然后在github中配置webhook进行回调

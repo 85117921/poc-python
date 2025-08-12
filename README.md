@@ -1,8 +1,10 @@
 # test
 
+# 20250812 - 8
+把token写在URL上面，而不是卸载secret里面
+
 # 20250812 - 7
 在Jenkins上面打开匿名read only access
-
 
 # 20250812 - 6
 git hub开启ssl

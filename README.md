@@ -2,6 +2,7 @@
 
 git hub disable SSL
 github: token wrote in secret
+github: content-type change to application/json
 ## -------------------------------------------
 # 20250812 - 9
 token wrote in URL

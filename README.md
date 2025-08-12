@@ -4,6 +4,7 @@ git hub disable SSL
 github: token wrote in secret
 github: content-type change to application/json
 github: config the API token, which was generate in Jenkins, into the github webhook URL (curl is GET request, but github is POST request)
+docker-jenkins: config a new API token in admin user, then update the URL in github side.
 ## -------------------------------------------
 # 20250812 - 9
 token wrote in URL
